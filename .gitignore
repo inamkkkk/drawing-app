@@ -1,0 +1,38 @@
+# Flutter/Dart stuff
+.dart_tool/
+.idea/
+.metadata
+android/build/
+ios/Pods/
+ios/.symlinks/
+ios/Frameworks/
+ios/Runner.xcworkspace/
+build/
+
+# OS generated files
+*.swp
+*.swo
+._*
+.DS_Store
+
+# Crash Reports
+crash_reports/
+
+# Compiled Object files
+*.hi
+*.o
+*.ko
+*.so
+*.la
+*.lo
+*.a
+*.dll
+*.exe
+*.obj
+
+# Packages
+*.packages
+
+# Editor related
+.vscode/
+*.iml
